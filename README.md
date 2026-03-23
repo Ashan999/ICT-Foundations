@@ -4,7 +4,7 @@ Welcome to this repository! This project showcases coursework and practical assi
 
 It highlights how modern digital tools, cloud workflows, and responsible AI usage can improve productivity and learning efficiency in today’s tech-driven environment.
 
-🚀 Project Overview
+🚀 **Project Overview**
 
 This repository demonstrates the integration of:
 
@@ -15,16 +15,16 @@ This repository demonstrates the integration of:
 
 All work reflects real-world applications of ICT skills in an academic setting.
 
-📂 Project Structure
-
+📂 **Project Structure
+**
 The repository is organized based on assignment components:
 
-📄 A_Report.pdf
+📄 **A_Report.pdf**
 
 A detailed report on:
 "Using Digital Tools to Improve My Learning Workflow"
 
-📊 B_Budget.xlsx
+📊 **B_Budget.xlsx**
 
 A monthly student expense tracker featuring:
 
@@ -36,12 +36,12 @@ Data visualization charts
 A 5-slide presentation covering:
 Cyber Safety Practices for Students
 
-🎨 D_CanvaPoster.pdf
+🎨 **D_CanvaPoster.pdf**
 
 A creative awareness poster based on the theme:
 "Think Before You Click"
 
-🔄 Process Evidence
+🔄** Process Evidence**
 
 Includes documentation of the development process:
 
