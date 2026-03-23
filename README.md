@@ -1,24 +1,74 @@
-ICT Foundations and Digital Productivity in the AI Era
-This repository contains the coursework and practical assignments for the Diploma in ICT at Luxway Campus. The project demonstrates the application of digital productivity tools, cloud-based workflows, and responsible AI usage in a modern learning environment.
+📘 ICT Foundations and Digital Productivity in the AI Era
 
-**Project Structure**
-The repository is organized according to the assignment requirements:
+Welcome to this repository! This project showcases coursework and practical assignments completed as part of the Diploma in ICT at Luxway Campus.
 
-**A_Report.pdf:** A comprehensive report on Using Digital Tools to Improve My Learning Workflow.
+It highlights how modern digital tools, cloud workflows, and responsible AI usage can improve productivity and learning efficiency in today’s tech-driven environment.
 
-**B_Budget.xlsx:** A monthly student expense tracker featuring automated formulas and data visualization.
+🚀 Project Overview
 
-**C_Presentation.pptx:** A 5-slide presentation focusing on Cyber Safety Practices for students.
+This repository demonstrates the integration of:
 
-**D_CanvaPoster.pdf**: A visual awareness poster themed Think Before You Click.
+💻 Digital productivity tools
+☁️ Cloud-based workflows
+🤖 Responsible AI collaboration
+🔐 Cyber safety practices
 
-**Process Evidence:** Documentation of the development workflow, including commit history and file organization.
+All work reflects real-world applications of ICT skills in an academic setting.
 
-**Skills Demonstrated**
-Digital Productivity: Advanced use of word processing, spreadsheets, and presentation software.
+📂 Project Structure
 
-**Version Control:**  Managing project iterations and history using Git and GitHub.
+The repository is organized based on assignment components:
 
-**Cyber Hygiene:** Implementing safety strategies like password management and phishing awareness.
+📄 A_Report.pdf
 
-AI Collaboration:** Leveraging AI tools as assistants for debugging, research, and grammar enhancement.**
+A detailed report on:
+"Using Digital Tools to Improve My Learning Workflow"
+
+📊 B_Budget.xlsx
+
+A monthly student expense tracker featuring:
+
+Automated calculations
+Budget analysis
+Data visualization charts
+🎤 C_Presentation.pptx
+
+A 5-slide presentation covering:
+Cyber Safety Practices for Students
+
+🎨 D_CanvaPoster.pdf
+
+A creative awareness poster based on the theme:
+"Think Before You Click"
+
+🔄 Process Evidence
+
+Includes documentation of the development process:
+
+Git commit history
+File organization
+Version tracking
+🧠 Skills Demonstrated
+💡 Digital Productivity
+Efficient use of Word, Excel, and PowerPoint
+Organized workflow management
+🔧 Version Control
+Managing project updates using Git & GitHub
+Tracking progress and maintaining history
+🔐 Cyber Hygiene
+Understanding online safety practices
+Password security & phishing awareness
+🤖 AI Collaboration
+Using AI tools for:
+Research
+Debugging
+Grammar and content improvement
+🎯 Purpose of This Project
+
+This project reflects how students can combine technology, creativity, and critical thinking to enhance both academic and practical skills in the AI era.
+
+📌 Author
+
+Ashan
+Diploma in ICT Student
+Luxway Campus
